@@ -20,5 +20,5 @@
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats-one.vercel.app/api?username=noahtran96&show_icons=true&locale=en&theme=dark" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=noahtran96&theme=dark" />
+  <img height="170em" src="https://streak-stats.demolab.com/?user=noahtran96&theme=dark" />
 </p>
