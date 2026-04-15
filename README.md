@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noahtran96&label=Profile%20views&color=0e75b6&style=flat" alt="noahtran96" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/noahtran96](https://github.com/noahtran96)
-
-- 📝 I regularly write articles on [https://justachillgeek.wordpress.com/](https://justachillgeek.wordpress.com/)
-
-- 📫 How to reach me **tranthaingochuong@gmail.com**
-
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/noahtran96) &nbsp; [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://www.leetcode.com/noahnoahnoahtran)
 
